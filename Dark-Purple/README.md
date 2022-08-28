@@ -5,4 +5,5 @@
 
 # Links
 **[Discord Server](https://discord.gg/pVKQ7vzmKE)**
+<br>
 **[Instagram](https://instagram.com)**
