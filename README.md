@@ -3,7 +3,7 @@
 <br><br>
 **A list of my personal discord themes**
 <br><br>
-**• [Dark Purple](https://github.com/pySiriusDev/Discord-Themes/tree/main/Dark-Purple)**
+- **[Dark Purple](https://github.com/pySiriusDev/Discord-Themes/tree/main/Dark-Purple)**
 
 ## How to use
 Download the desired theme css file and paste into [BetterDiscord](https://betterdiscord.app) themes folder.
@@ -24,3 +24,4 @@ Linux:
 ## Links
 - **[Discord Server](https://discord.gg/pVKQ7vzmKE)**
 - **[Instagram](https://instagram.com)**
+- **[Twitter](https://twitter.com/_katiorro)**
