@@ -1,9 +1,26 @@
 # Discord Themes
+[![Support Me on Ko-fi](https://i.imgur.com/7Cm07AZ.png)](https://ko-fi.com/siriusbeck)
+<br>
 **A list of my personal discord themes**
-<br><br>
+<br>
 **• [Dark Purple](https://github.com/pySiriusDev/Discord-Themes/tree/main/Dark-Purple)**
 
-# Links
-**[Discord Server](https://discord.gg/pVKQ7vzmKE)**
+## How to use
+Download the desired theme css file and paste into [BetterDiscord](https://betterdiscord.app) themes folder.
 <br>
-**[Instagram](https://instagram.com)**
+Windows:
+```
+%appdata%\BetterDiscord\themes
+```
+MacOS:
+```
+/Users/[User]/Library/Application Support/BetterDiscord/themes
+```
+Linux:
+```
+~/.config/BetterDiscord/themes/
+```
+
+## Links
+- **[Discord Server](https://discord.gg/pVKQ7vzmKE)**
+- **[Instagram](https://instagram.com)**
