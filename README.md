@@ -1,6 +1,6 @@
 # Discord Themes
 [![Support Me on Ko-fi](https://i.imgur.com/7Cm07AZ.png)](https://ko-fi.com/siriusbeck)
-<br>
+<br><br>
 **A list of my personal discord themes**
 <br>
 **• [Dark Purple](https://github.com/pySiriusDev/Discord-Themes/tree/main/Dark-Purple)**
