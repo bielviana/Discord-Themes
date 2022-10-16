@@ -1,5 +1,4 @@
 # Discord Themes
-<br><br>
 [![Support Me on Ko-fi](https://i.imgur.com/7Cm07AZ.png)](https://ko-fi.com/siriusbeck)
 <br><br>
 **A list of my personal discord themes**
